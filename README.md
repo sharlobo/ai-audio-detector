@@ -57,8 +57,8 @@ pip install -r requirements.txt
 
 ## Authors
 
-Created by @sharlobo and team  
-University project for Deep Learning + Audio Forensics
+Created by @sharlobo @carlierherrera @talasoolyn  
+University project for Deep Learning and Multimodal Systems
 
 ## License
 
