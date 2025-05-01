@@ -5,3 +5,8 @@ __pycache__/
 data/
 *.pt
 *.npy
+.ipynb_checkpoints/
+*.pth
+*.zip
+.DS_Store
+
